@@ -16,3 +16,6 @@ The License is Data files © Original Authors
 From the organization's description:
 
 Gun Violence Archive (GVA) is a not for profit corporation formed in 2013 to provide free online public access to accurate information about gun-related violence in the United States. GVA will collect and check for accuracy, comprehensive information about gun-related violence in the U.S. and then post and disseminate it online.
+
+
+Gun Violence in US(2) | Tableau Public
